@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Giuseppe Pio
 
-<!--
-**JosephPshine63/josephpshine63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer (Angular)  
+🚀 Focused on scalable applications and real-world solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I build web applications with attention to clean code, performance, and usability.
+
+I'm also interested in:
+- Trading & financial systems
+- Automation tools
+- Digital product development
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Angular
+- TypeScript
+- HTML / CSS
+
+### Backend
+- Spring Boot
+- Django (Python)
+
+### DevOps & Tools
+- Docker
+- Liquibase
+
+---
+
+## 🚀 Projects
+
+### 🔹 Portfolio
+👉 https://josephpshine63.github.io/portfolio/
+
+Personal website showcasing my work and skills.
+
+---
+
+## 📈 Goals
+- Build scalable tech products
+- Grow in system design
+- Combine development with business opportunities
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: dev.pioruocco@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/giuseppe-pio-ruocco-7b4367267/
