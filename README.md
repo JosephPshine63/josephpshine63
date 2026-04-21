@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giuseppe Pio
 
-💻 Software Developer (Angular)  
+💻 Analyst Software Engineer
 🚀 Focused on scalable applications and real-world solutions  
 
 ---
