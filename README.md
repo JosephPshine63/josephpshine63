@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giuseppe Pio
 
-💻 Analyst Software Engineer
+💻 Analyst Software Engineer with nearly 4 years of experience with programming and 2.5 in working envoirenment
 🚀 Focused on scalable applications and real-world solutions  
 
 ---
@@ -12,6 +12,8 @@ I'm also interested in:
 - Trading & financial systems
 - Automation tools
 - Digital product development
+- Gym and fitness
+- Manga and anime
 
 ---
 
