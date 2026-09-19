@@ -47,11 +47,6 @@ A Spring Cloud microservices setup — config server, discovery server, gateway,
 - **IIAB** (Generali, EU insurance platform, 200+ people cross-company team): Angular 16+ components (services, modules, pipes) for complex insurance workflows, plus Spring Boot REST endpoints for business logic; GitFlow, PRs, and systematic code reviews across ~8 bi-weekly sprints
 - **MSD Terna S.p.A.** (Italy's national electricity balancing market): React + TypeScript frontend and Java / Node.js microservices, Oracle and MongoDB, asynchronous batch processing, real-time WebSocket notifications, Kubernetes deployment and GitLab CI/CD
 
-**Exibe** — Backend Software Engineer *(freelance)* · Remote *(Oct 2025 – Mar 2026)*
-- Co-designed backend architecture and domain model for *e-instant*, a booking platform with restaurant services
-- Built services, controllers, and repositories with Spring Boot 3.4 and Spring Data JPA on PostgreSQL
-- Implemented JWT + Spring Security authentication and role-based authorization
-
 **Sistemi Informativi (IBM Company)** — Software Engineer · Rome *(May 2024 – Sep 2025)*
 - **GDSI** (Armed Forces health data): Spring Boot services, new Keycloak role, Spring Security configuration, Angular 14 optimization, Elasticsearch integration
 - **Lucilla** (Municipality of Rome): Angular frontend restructuring and technical/functional documentation
