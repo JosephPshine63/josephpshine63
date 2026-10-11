@@ -80,7 +80,7 @@ A Spring Cloud microservices setup — config server, discovery server, gateway,
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat)
 
 **Frontend**
-![Angular](https://img.shields.io/badge/Angular%2014--19-DD0031?style=flat&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular%2014--20-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat&logo=react&logoColor=black)
