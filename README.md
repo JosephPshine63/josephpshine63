@@ -4,7 +4,7 @@
 
 Currently an **Analyst Software Engineer at Accenture**, working on an enterprise insurance platform for Generali (EU) and on a web platform for Italy's electricity balancing market (Terna). Previously at **Sistemi Informativi (IBM Company)**. 3+ years of experience in real production environments across insurance, energy, public administration, and healthcare.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=githubpages&logoColor=white)](https://josephpshine63.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=githubpages&logoColor=white)](https://gprdev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-pio-ruocco-7b4367267/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.pioruocco@gmail.com)
 ![Open to work](https://img.shields.io/badge/Status-Open%20to%20opportunities-6ee7b7?style=flat)
@@ -146,7 +146,7 @@ Open to fullstack or backend roles at product, SaaS, or consulting companies. Ou
 ## 📬 Contact
 
 - **Email:** [dev.pioruocco@gmail.com](mailto:dev.pioruocco@gmail.com)
-- **Portfolio:** [josephpshine63.github.io/portfolio](https://josephpshine63.github.io/portfolio/)
+- **Portfolio:** [gprdev.com](https://gprdev.com/)
 - **LinkedIn:** [giuseppe-pio-ruocco](https://www.linkedin.com/in/giuseppe-pio-ruocco-7b4367267/)
 - **Location:** Naples, Italy
 
