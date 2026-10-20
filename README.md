@@ -13,28 +13,28 @@ Currently an **Analyst Software Engineer at Accenture**, working on an enterpris
 
 ## 🚀 Featured Projects
 
-### [WacChat — Real-Time Chat Platform](https://github.com/JosephPshine63/wacchat) · [🌐 wacchat.win](https://wacchat.win)
+### [WacChat — Real-Time Chat Platform](https://github.com/JosephPshine63/wacchat) · [🌐 wacchat.win](https://wacchat.win) · [📖 Case study](https://gprdev.com/en/projects/wacchat/)
 A WhatsApp Web-inspired messaging platform built as Spring Boot 3 microservices: an API gateway (Spring Cloud Gateway), a file service, a notification service, and a call service with WebRTC signaling. Identity is handled by a custom-themed Keycloak realm with Google login, messaging runs over STOMP/WebSocket relayed through RabbitMQ, media is stored on Cloudflare R2, and the whole stack ships with observability (Prometheus, Grafana, Loki, Tempo). Includes "Arno", a Gemini-powered chatbot, and an Angular 19 client generated from the OpenAPI spec. Fully dockerized, with a GitHub Actions CI pipeline and a scripted production deploy.
 
 `Spring Boot 3` `Angular 19` `Keycloak` `RabbitMQ` `WebSocket/STOMP` `WebRTC` `PostgreSQL` `Docker` `Prometheus` `Grafana` `Loki` `Tempo`
 
 ---
 
-### [GprFlow — Crypto Trading Platform](https://github.com/JosephPshine63/GprFlow) · [🌐 gprflow.trade](https://gprflow.trade)
+### [GprFlow — Crypto Trading Platform](https://github.com/JosephPshine63/GprFlow) · [🌐 gprflow.trade](https://gprflow.trade) · [📖 Case study](https://gprdev.com/en/projects/gprflow/)
 A fullstack crypto trading platform: live market data and price charts (CoinGecko), buy/sell against a wallet balance, portfolio with per-asset profit/loss, watchlist, and a Gemini AI chatbot for market Q&A. Authentication uses stateless JWT in an HttpOnly cookie, optional email OTP 2FA, and Cloudflare Turnstile. The backend is being split from a monolith into independent Spring Boot services behind a gateway that handles JWT validation, rate limiting, and request size caps. Payments run through Stripe (test mode on the public demo), and deploys go out via GitHub Actions to a self-hosted server behind a Cloudflare Tunnel.
 
 `Spring Boot` `Spring Cloud Gateway` `React` `Redux` `PostgreSQL` `Stripe` `Gemini AI` `JWT` `2FA` `Docker` `GitHub Actions`
 
 ---
 
-### [PioCart — E-Commerce Backend](https://github.com/JosephPshine63/PioCart)
-A complete REST API for an e-commerce platform: product and category management, dynamic cart logic, order processing, and user management. JPA domain model with proper relationships (OneToMany, ManyToMany), input validation, and a fully dockerized dev environment.
+### [PioCart — Full-Stack E-Commerce](https://github.com/JosephPshine63/PioCart) · [🌐 Live demo](https://pio-cart-psi.vercel.app) · [📖 Case study](https://gprdev.com/en/projects/piocart/)
+A Spring Boot backend and a Next.js storefront: catalog with search and filters, cart, Stripe checkout (test mode on the public demo), order history and an admin area, with role-based JWT login. JPA domain model with proper relationships (OneToMany, ManyToMany), input validation, and a fully dockerized dev environment.
 
-`Java 17` `Spring Boot 3` `PostgreSQL` `Docker Compose` `ModelMapper` `Lombok`
+`Java 17` `Spring Boot 3` `Next.js` `Stripe` `JWT` `PostgreSQL` `Docker Compose` `ModelMapper` `Lombok`
 
 ---
 
-### [BookTribe — Social Reading Platform](https://github.com/JosephPshine63/BookTribe)
+### [BookTribe — Social Reading Platform](https://github.com/JosephPshine63/BookTribe) · [📖 Case study](https://gprdev.com/en/projects/booktribe/)
 A Spring Cloud microservices setup — config server, discovery server, gateway, feedback and notification services — paired with an Angular frontend and a self-managed Keycloak realm, built to explore microservices architecture end-to-end.
 
 `Spring Cloud` `Angular` `Keycloak` `Microservices`
